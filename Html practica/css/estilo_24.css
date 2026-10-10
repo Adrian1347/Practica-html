@@ -1,0 +1,25 @@
+/*estilo para todo el documento*/
+body{
+    font-family:"tahoma";
+}
+/* Estilo para el estilo del documento*/
+p{
+    margin:8px;
+    text-align:justify ;
+
+}
+/*Estilo para los articulos*/
+article{
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    width: 30%;
+    height: 450px;
+ background:#CFC;
+ text-align:center;
+}
+/*estilo para definir ancho y alto de la imagen*/
+img{
+    width:400px;
+    height: 250px; 
+}
